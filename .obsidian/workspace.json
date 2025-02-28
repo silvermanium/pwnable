@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silvermanium_vm_setup.md",
+                "file": "grotesque/ascii/writeup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "silvermanium_vm_setup"
+              "title": "writeup"
             }
           }
         ]
@@ -179,9 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d19f2bd4940a52b9",
+  "active": "f9b5ac3f0fdb812c",
   "lastOpenFiles": [
+    "grotesque/ascii",
     "silvermanium_vm_setup.md",
-    "silvermanium_vm_setup.md"
+    "grotesque/ascii/writeup.md",
+    "Untitled.md",
+    "grotesque"
   ]
 }
