@@ -12,5 +12,4 @@ ssh-keygen
 - Enable community plugins and install [Git](obsidian://show-plugin?id=obsidian-git)
 - Now just commit and push using `Ctrl+P`
 # Necessary tools
-`sudo apt install -y binutils`
-`sudo apt install -y sshpass`
+`sudo apt install -y binutils checksec`

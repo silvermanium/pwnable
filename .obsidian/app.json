@@ -2,5 +2,6 @@
   "showUnsupportedFiles": true,
   "readableLineLength": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "showLineNumber": true
 }
